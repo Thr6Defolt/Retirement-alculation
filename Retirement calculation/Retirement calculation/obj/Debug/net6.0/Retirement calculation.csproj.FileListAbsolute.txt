@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\bin\Debug\net6.0\Retirement calculation.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\bin\Debug\net6.0\Retirement calculation.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\bin\Debug\net6.0\Retirement calculation.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\bin\Debug\net6.0\Retirement calculation.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\bin\Debug\net6.0\Retirement calculation.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\Retirement calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\Retirement calculation.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\Retirement calculation.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\Retirement calculation.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\Retirement calculation.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\refint\Retirement calculation.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\Retirement calculation.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\Retirement calculation.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Retirement calculation\Retirement calculation\obj\Debug\net6.0\ref\Retirement calculation.dll
